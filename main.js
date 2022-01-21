@@ -1,8 +1,8 @@
 const linksSocialMedia = {
   github: 'marcelaleoni',
-  youtube: 'marcyandluke',
-  instagram: 'nerdmarcy',
-  twitter: 'marcyandluke'
+  youtube: 'marcelaleoni',
+  instagram: 'geekmarcy',
+  twitter: 'techmarcy'
 }
 
 function changeSocialMediaLinks() {
